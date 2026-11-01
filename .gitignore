@@ -1,0 +1,22 @@
+# Environments
+env/
+.env
+venv/
+.venv/
+__pycache__/
+
+# Documents
+*.pptx
+*.pdf
+*.html
+*.csv
+*.txt
+
+# Scripts
+scripts/
+
+.DS_Store
+.env
+.venv/
+__pycache__/
+.ipynb_checkpoints/
